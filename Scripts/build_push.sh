@@ -46,3 +46,5 @@ cp -r ../bioinformatics_clinical/_book/* ./
 git add .
 git commit -m "Update at $time"
 git push
+cd ..
+rm -fr BevalZ.github.io/
